@@ -1,0 +1,18 @@
+{
+  "item.dostkas.dostkas": "Dostkas",
+  "item.dostkas.dostkas_ingot": "Dostkas Ingot",
+
+  "block.dostkas.dostkas_block": "Dostkas Block",
+  "block.dostkas.dostkas_concrete": "Dense Cheese",
+
+  "item.dostkas.dostkas_pickaxe": "Dostkas Pickaxe",
+  "item.dostkas.dostkas_axe": "Dostkas Axe",
+  "item.dostkas.dostkas_shovel": "Dostkas Shovel",
+  "item.dostkas.dostkas_hoe": "Dostkas Hoe",
+  "item.dostkas.dostkas_sword": "Dostkas Sword",
+
+  "item.dostkas.dostkas_helmet": "Dostkas Helmet",
+  "item.dostkas.dostkas_chestplate": "Dostkas Chestplate",
+  "item.dostkas.dostkas_leggings": "Dostkas Leggings",
+  "item.dostkas.dostkas_boots": "Dostkas Boots"
+}

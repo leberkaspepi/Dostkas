@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "KSS",
+    "SSG",
+    "GGG"
+  ],
+  "key": {
+    "K": {
+      "item": "dostkas:dostkas_ingot"
+    },
+    "S": {
+      "item": "minecraft:sand"
+    },
+    "G": {
+      "item": "minecraft:gravel"
+    }
+  },
+  "result": {
+    "item": "dostkas:dostkas_concrete",
+    "count": 8
+  }
+}

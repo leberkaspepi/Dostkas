@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dostkas:dostkas_block"
+    }
+  ],
+  "result": {
+    "item": "dostkas:dostkas",
+    "count": 9
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "":
+    {
+      "model": "dostkas:block/dostkas_concrete"
+    }
+  }
+}

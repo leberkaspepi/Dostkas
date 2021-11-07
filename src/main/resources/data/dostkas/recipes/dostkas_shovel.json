@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D",
+    "S",
+    "S"
+  ],
+  "key": {
+    "D": {
+      "item": "dostkas:dostkas_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dostkas:dostkas_shovel"
+  }
+}
